@@ -1,5 +1,5 @@
 # 0xMT Miner Setup instructions
-ABAS Miner forked from IwYeo's SoliditySHA3Miner
+Mineable Token Miner forked from IwYeo's SoliditySHA3Miner
 Built with .NET 5.0, VC++ 19.28.29914, gcc 4.8.5, nVidia CUDA SDK 10.2 64-bit, and AMD APP SDK v3.0.130.135 (OpenCL)
 
 .NET Core 5.0 can be downloaded from https://dotnet.microsoft.com/download/dotnet/thank-you/runtime-5.0.5-windows-x64-installer
