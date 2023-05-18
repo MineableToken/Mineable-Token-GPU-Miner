@@ -24,7 +24,7 @@ Also must fill in account and private key in 0xMineableTokenMiner.conf file
 
 0b) Nvidia driver, and/or AMD driver.
 
-1) Open ABASminer Conf file
+1) Open 0xMineableTokenMiner.conf file
 
 2) Below are the following arguments that may/need to be changed :
 
@@ -40,7 +40,7 @@ Also must fill in account and private key in 0xMineableTokenMiner.conf file
   - If omitted, it is set to my Alchemy account.
   - Replace the value with your web3api as you desire.
 
-3) Save and run 'ABASminer.bat file' in this directory.
+3) Save and run '0xMineableTokenMiner.bat file' in this directory.
 
 ### Notes
 
