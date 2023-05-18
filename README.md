@@ -45,7 +45,7 @@ Also must fill in account and private key in ABASMiner file
 ### Notes
 
 Please feedback your results and suggestions so that I can improve the miner. 
-You can either add an issue in the repository, or find me in discord (Untouchable_Fge#6920). 
+You can either add an issue in the repository, or find me in discord (Untouchable_0xMT#6920). 
 
 Thanks for trying out this miner!
 
